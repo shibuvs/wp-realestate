@@ -1,0 +1,18 @@
+{
+    "name": "shibuvs/wp-real-estate",
+    "description": "It's a real estate custom plugin.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WPRealProperty\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shibu Vs"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
